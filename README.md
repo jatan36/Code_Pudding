@@ -10,7 +10,7 @@ This repository contains the notebook(s) and assets for a regression project tha
 ## Contributors
 - Jatan Bhatt  
 - Tirso Paneque  
-- Eric  
+- Eric MacDougall  
 - Rawaa Yousseif  
 
 ---
